@@ -9,13 +9,13 @@ REST.CSharp
 
 ## Overview
 
-A Visual Studio 2013 solution demonstrating an integration to Mercury's REST API.  This example demonstrates:
+A Visual Studio 2013 solution demonstrating an integration to Mercury's RESTful API.  This example demonstrates:
 
 * simulated card read from an encrypted reader
 * Credit Sale transaction
 * ReturnByRecordNo transaction using the information from the credit sale response.
 
->There are 3 steps to process a payment with Mercury's REST API.
+>There are 3 steps to process a payment with Mercury's RESTful API.
 
 ##Step 1: Build Request
 
@@ -39,7 +39,7 @@ AccountSource = accountType
 
 ##Step 2: Send Data
 
-We make use of the RestSharp client library to make the REST request below.
+We make use of the RestSharp client library to make the request below.
 
 ```
 var client = new RestClient(txtEndPoint.Text);
