@@ -53,7 +53,7 @@ namespace REST.CSharp
                 EncryptedBlock = encryptedBlock,
                 EncryptedFormat = "MagneSafe",
                 EncryptedKey = encryptedKey,
-                OperatorID = "Current OperatorId",
+                OperatorID = "test",
                 AccountSource = accountType
             };
 
@@ -94,7 +94,7 @@ namespace REST.CSharp
                 Frequency = "OneTime",
                 RecordNo = item["RecordNo"],
                 RefNo = item["RefNo"],
-                OperatorID = "Current OperatorId",
+                OperatorID = "test",
             };
 
             txtRequest.Text = data.ToString();
