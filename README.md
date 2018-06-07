@@ -1,7 +1,7 @@
 REST.CSharp
 ====================
 
-	<a href="https://developer.vantiv.com/?utm_campaign=githubcta&utm_medium=hyperlink&utm_source=github&utm_content=gotquestions">Got questions? Connect with our experts on Vantiv ONE.</a>
+<a href="https://developer.vantiv.com/?utm_campaign=githubcta&utm_medium=hyperlink&utm_source=github&utm_content=gotquestions">Got questions? Connect with our experts on Vantiv ONE.</a>
 
 * More documentation?  http://developer.mercurypay.com
 * Questions?  integrationteam@mercurypay.com
